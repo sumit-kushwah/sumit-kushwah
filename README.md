@@ -1,10 +1,12 @@
-<div align="center">
+<div align="center" style="font-family: open-sans" >
 <h2> 𝐇ello 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/sumit-kushwah/sumit-kushwah/blob/main/images/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
+  <kbd>
+    <img src="https://github.com/sumit-kushwah/sumit-kushwah/blob/main/images/github_header.png" alt="Welcome!" style="border-radius: 20px;" />
+  </kbd>
 
-<img src="https://github.com/sumit-kushwah/sumit-kushwah/blob/main/images/github_header.png" alt="Welcome!" />
 
 </div>
 
