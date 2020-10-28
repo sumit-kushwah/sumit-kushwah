@@ -30,7 +30,7 @@ or <a href="mailto:sumitkushwah1729@gmail.com"><b>email</b></a> me
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/sumit-kushwah/sumit-kushwah.svg)](http://hits.dwyl.com/sumit-kushwah/sumit-kushwah)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsumit-kushwah&count_bg=%2379C83D&title_bg=%23555555&icon=codeforces.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <i>Follow me around the web:</i><br>
 
