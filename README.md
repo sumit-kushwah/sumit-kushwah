@@ -4,8 +4,6 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/sumit-kushwah/sumit-kushwah/blob/main/images/github_header.png" alt="Welcome!" width="60%" />
-
 
 </div>
 
