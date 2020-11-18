@@ -1,23 +1,13 @@
 <div align="center" style="font-family: open-sans" >
-<h2> Hello, there fellow < developers />! <img src="https://github.com/sumit-kushwah/sumit-kushwah/blob/main/images/Hi.gif" width="30px"></h2>
+<h2> Hello, there <img src="https://github.com/sumit-kushwah/sumit-kushwah/blob/main/images/Hi.gif" width="30px"></h2>
 </div>
 
-<div align="center" width="50">
 
 
-</div>
-
-<div align="center">
-Ask me anything <a href="https://github.com/sumit-kushwah/sumit-kushwah/issues/new"><b>here</b></a>
-or <a href="mailto:sumitkushwah1729@gmail.com"><b>email</b></a> me.
-
-<i>Happy Coding!</i> 😊
-
-</div>
 
 <div align="center">
 
----
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsumit-kushwah&count_bg=%2379C83D&title_bg=%23555555&icon=codeforces.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <i>Connect with me around the web:</i><br>
