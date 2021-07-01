@@ -15,7 +15,7 @@
 <a href="https://open.spotify.com/user/e72wb6nw6c141wxrnzdhq5uk8" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="mailto:sumitkushwah1729@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Spotify"></a>
 
-[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="drawing" width="200"/>](https://dev.to/sumitkushwah)
+<!-- [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="drawing" width="200"/>](https://dev.to/sumitkushwah) -->
 
 </div>
 
