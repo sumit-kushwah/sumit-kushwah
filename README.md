@@ -1,37 +1,23 @@
-<div align="center" style="font-family: open-sans" >
-<h2> Hello, there <img src="https://github.com/sumit-kushwah/sumit-kushwah/blob/main/images/Hi.gif" width="30px"></h2>
-</div>
+## Hi there 👋
 
+I am **Sumit Kushwah** working as **Software Engineer @ xorlabs.in**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Angular, NodeJS, NestJs, MongoDB, Mean Stack, RESTfull API’s, User Experience, PHP.** Strong engineering professional with a Bachelor and Master of Technology(Dual Degree) in Computer Science and Engineering from National Institute of Technology Hamirpur.
 
+[![Linkedin: sumit](https://img.shields.io/badge/-sumit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit-kushwah/)](https://www.linkedin.com/in/sumit-kushwah/)
+[![GitHub Sumit](https://img.shields.io/github/followers/sumit-kushwah?label=follow&style=social)](https://github.com/sumit-kushwah)
+![Twitter Follow](https://img.shields.io/twitter/follow/ksumit100?style=social)
 
+---
 
-<div align="center">
+- 🔭 I’m currently working as **Sr. Software Engineer @ xorlabs.in**
+- 🌱 I’m currently learning **Python - Blockchain**
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 🤔 I’m looking for help with digital marketing.
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me:
+  **[Twitter](https://twitter.com/ksumit100), [Instagram](https://instagram.com/codesurface)**
 
-<i>Connect with me around the web:</i><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kushwah&layout=compact&theme=dark&hide_border=true)
 
-<a href="https://www.linkedin.com/in/sumit-kushwah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/_sumit_kushwah/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/sumit.kushwah.3382/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/e72wb6nw6c141wxrnzdhq5uk8" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="mailto:sumitkushwah1729@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Spotify"></a>
+![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit-kushwah&show_icons=true&hide_border=true&theme=dark)
 
-<!-- [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="drawing" width="200"/>](https://dev.to/sumitkushwah) -->
-
-</div>
-
-
-
-<!--
-**sumit-kushwah/sumit-kushwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumit-kushwah)](https://github.com/sumit-kushwah/github-profile-trophy)
