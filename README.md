@@ -16,8 +16,8 @@ I am **Sumit Kushwah** working as **Software Engineer @ xorlabs.in**. I am an Ex
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/ksumit100), [Instagram](https://instagram.com/codesurface)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kushwah&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kushwah&layout=compact&theme=vue&hide_border=true)
 
-![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit-kushwah&show_icons=true&hide_border=true&theme=dark)
+![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit-kushwah&show_icons=true&hide_border=true&theme=vue)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sumit-kushwah)](https://github.com/sumit-kushwah/github-profile-trophy)
