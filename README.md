@@ -9,10 +9,10 @@ I am **Sumit Kushwah** working as **Software Engineer @ xorlabs.in**. I am an Ex
 ---
 
 - 🔭 I’m currently working as ** Software Engineer @ xorlabs.in**
-- 🌱 I’m currently learning **Python - Blockchain**
-- 👯 I’m looking to collaborate on open source/commercial projects
+- 🌱 I’m currently learning **Python related Technologies.**
+- 👯 I’m looking to collaborate on open source/commercial projects.
 - 🤔 I’m looking for help with digital marketing.
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development**.
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/ksumit100), [Instagram](https://instagram.com/codesurface)**
 
