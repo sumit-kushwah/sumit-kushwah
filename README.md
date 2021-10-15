@@ -8,7 +8,7 @@ I am **Sumit Kushwah** working as **Software Engineer @ xorlabs.in**. I am an Ex
 
 ---
 
-- 🔭 I’m currently working as ** Software Engineer @ xorlabs.in**
+- 🔭 I’m currently working as **Software Engineer @ xorlabs.in**
 - 🌱 I’m currently learning **Python related Technologies.**
 - 👯 I’m looking to collaborate on open source/commercial projects.
 - 🤔 I’m looking for help with digital marketing.
