@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as **Software Engineer @Iquanti**
+- 🔭 I’m currently working as **Software Engineer**
 - 🌱 I’m currently learning **Python related Technologies.**
 - 👯 I also contribute to open source projects.
 - 💬 Ask me about **Web Development**.
