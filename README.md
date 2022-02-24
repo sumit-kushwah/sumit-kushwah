@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as **Software Engineer**
-- 🌱 I’m currently learning **Python related Technologies.**
+- 🔭 I’m currently working as **Software Engineer at indiaMART in AI/ML Team.**
+- 🌱 I’m currently working on **NLP related projects.**
 - 👯 I also contribute to open source projects.
-- 💬 Ask me about **Web Development**.
+- 💬 Ask me about **Machine Learning, NLP, Golang, Angular**.
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/ksumit100), [Instagram](https://instagram.com/codesurface)**
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=sumit-kushwah&show_icons=true&hide_border=true&theme=vue)
+  **[Twitter](https://twitter.com/ksumit100), [Instagram](https://instagram.com/sumit.pics)**
 
